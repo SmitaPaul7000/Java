@@ -16,6 +16,6 @@ public class collection_03 {
         for (String key : intMap.keySet()) {
             Integer i = intMap.get(key);
         }
-        intarr.iterator();
+//        intarr.iterator();
     }
 }
